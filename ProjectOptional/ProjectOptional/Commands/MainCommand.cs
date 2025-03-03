@@ -12,5 +12,9 @@ namespace ProjectOptional.Commands
         {
             return true;
         }
+        public bool IsLeft()
+        {
+            return true;
+        }
     }
 }
